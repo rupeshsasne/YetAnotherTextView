@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="ttfName" format="string" />
+    
+    <declare-styleable name="TextView">
+        <attr name="TextViewStyle" format="reference"/>
+        <attr name="ttfName"/>
+    </declare-styleable>
+    
+</resources>

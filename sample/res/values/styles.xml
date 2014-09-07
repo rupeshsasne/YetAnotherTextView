@@ -1,0 +1,13 @@
+<resources>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <item name="TextViewStyle">@style/TextView</item>
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+
+    <style name="TextView" parent="@android:style/Widget.TextView">
+        <item name="ttfName">Roboto-BoldItalic.ttf</item>
+    </style>
+    
+</resources>

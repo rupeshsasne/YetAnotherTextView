@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">TextView</string>
+	<string name="typeface_not_found">Typeface %s not found, or could not be loaded.
+        Showing default typeface</string>
+</resources>
