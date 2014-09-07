@@ -2,6 +2,8 @@
 
 Yet another TextView which allows you to set the custom typeface from application's theme as well as from xml.
 
+![Sample Image](https://raw.githubusercontent.com/rupehshsasne/YetAnotherTextView/master/sample/screenshot/device-2014-09-07-185722.png)
+
 ### How to use:
 1) Copy the fonts you want to use into the _assets/fonts_ folder of your project
 
