@@ -5,7 +5,7 @@ Yet another TextView which allows you to set the custom typeface from applicatio
 ![Sample Image](https://raw.githubusercontent.com/rupehshsasne/YetAnotherTextView/master/sample/screenshot/device-2014-09-07-185722.png)
 
 ### How to use:
-1) Copy the fonts you want to use into the _assets/fonts_ folder of your project
+1) Copy the fonts you want to use into the _assets_ folder of your project
 
 2) Add your application namespace to the root element in the XML file that is to contain YetAnotherTextView's, e.g
 ```xml
